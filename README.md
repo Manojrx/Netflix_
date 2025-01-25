@@ -11,3 +11,5 @@ JavaScript: For interactivity (e.g., responsive menu, dynamic elements).
 Features
 Hover-to-Play Trailers: When you hover over a movie poster, the associated trailer automatically loads and plays.
 Hero Section: Includes an eye-catching banner image with a call-to-action button.
+
+![Uploading image.png…]()
